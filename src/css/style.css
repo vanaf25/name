@@ -1,0 +1,70 @@
+@media screen and (max-height: 1590px) {
+    .needTableScroll {
+        height: 65vh !important
+    }
+}
+
+@media screen and (max-height: 1450px) {
+    .needTableScroll {
+        height: 62vh !important
+    }
+}
+@media screen and (max-height: 1335px) {
+    .needTableScroll {
+        height: 60vh !important
+    }
+}
+@media screen and (max-height: 1270px) {
+    .needTableScroll {
+        height: 55vh !important
+    }
+}
+@media screen and (max-height: 1130px) {
+    .needTableScroll {
+        height: 50vh !important
+    }
+}
+@media screen and (max-height: 1030px) {
+    .needTableScroll {
+        height: 45vh !important
+    }
+}
+@media screen and (max-height: 920px) {
+    .needTableScroll {
+        height: 40vh !important
+    }
+}
+@media screen and (max-height: 830px) {
+    .needTableScroll {
+        height: 34vh !important
+    }
+}
+
+@media screen and (max-height: 770px) {
+    .needTableScroll {
+        height: 30vh !important
+    }
+}
+@media screen and (max-height: 720px) {
+    .needTableScroll {
+        height: 24vh !important
+    }
+}
+@media screen and (max-height: 650px) {
+    .needTableScroll {
+        height: 24vh !important
+    }
+}
+@media screen and (max-height: 600px) {
+    .needTableScroll {
+        height: 160px !important
+    }
+}
+
+.needTableScroll{
+    height:68vh;
+}
+
+.css-w4xala{
+    padding-bottom: 0px;
+}

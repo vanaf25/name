@@ -1,0 +1,18 @@
+/* -----| CUSTOM  REACT VIRTUAL LIST STYLES | ----- */
+/** 
+Cutom MUI styles not working hence , added harcoded styles
+*/
+.ReactVirtualized__Table__headerColumn {
+    display: flex;
+}
+
+.MuiTableCell-root {
+    box-shadow: none !important;
+}
+
+.ReactVirtualized__Table__headerRow {
+    align-items: flex-start;
+    background-color: #F4F6F8;
+    height: unset !important;
+    border-radius: 8px;
+}
